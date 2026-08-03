@@ -20,11 +20,11 @@ on:
       channel_name:
         description: 'Channel to operate on'
         required: true
-        default: 'The Private Jet Guide'
+        default: 'Celebrity News'
         type: choice
         options:
-          - The Private Jet Guide
-          - Lord Mahdi
+          - Celebrity News
+          - GTA 6
       topic:
         description: 'Topic Name'
         required: false
