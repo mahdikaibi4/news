@@ -24,6 +24,7 @@ on:
         options:
           - Celebrity News
           - GTA 6
+          - Self improvement
       topic:
         description: 'Topic Name'
         required: false
