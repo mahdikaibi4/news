@@ -19,10 +19,10 @@ on:
       channel_name:
         description: 'Channel to operate on'
         required: true
-        default: 'Celebrity News'
+        default: 'Luxe-Fi'
         type: choice
         options:
-          - Celebrity News
+          - Luxe-Fi
           - GTA 6
           - Self improvement
       topic:
